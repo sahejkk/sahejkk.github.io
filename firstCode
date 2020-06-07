@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<header>
+		<h1>Welcome to Sahej's Page</h1>
+	</header>
+	<head>
+
+		<title> Sahej's Page </title>
+	</head>
+	<body>
+		<p class="name">Hi! My name is Sahej.</p>
+		<div class="indent">
+			<br>
+			<br>
+			<br>
+			<br>
+			<p><s class="rotate">Was it easy to read this?</s></p>
+			<p>I don't think it was...</p>
+			<p>In fact, I'm sure it was <em id="big">hard</em></p>
+			<p><strong>You might've even hurt your neck.</strong></p>
+			<p><span title="Isn't it cool that you can see this?">Hover over this text.</span></p>
+		</div>
+			<p  class="circle"><strong>
+				<br>
+				<a href="https://www.youtube.com/watch?v=P3ALwKeSEYs">YES</a>
+			</strong></p>
+			<p  class="circle"><strong>
+				<br>
+				<a href="https://www.youtube.com/watch?v=4NkbN0ezGf4">NO</a>
+			</strong></p>
+		
+	</body>
+</html>
